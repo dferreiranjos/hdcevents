@@ -197,6 +197,15 @@ header{
     margin-top: 1.875rem;
 }
 
+/* Dashboard */
+.dashboard-title-container{
+    margin-bottom: 1.875rem;
+    margin-top: 1.875rem;
+}
+
+.dashboard-events-container th{
+    width: 25%;
+}
 /* Footer */
 footer{
     text-align: center;
