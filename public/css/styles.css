@@ -217,6 +217,14 @@ header{
     margin-top: 1.25rem;
 }
 
+#info-container .already-joined-msg{
+    margin: 0.9375rem;
+    color: #004085;
+    background-color: #CCE5FF;
+    border: 1px solid #B8DAFF;
+    padding: 0.625rem;
+    width: 12rem;
+}
 
 /* Footer */
 footer{
